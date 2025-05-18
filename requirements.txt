@@ -1,0 +1,3 @@
+GitPython
+markdown
+sqlite-utils>=3.2
