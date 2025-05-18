@@ -1,14 +1,16 @@
 # Today I Learned
 
-Snippets of technology things I learned today. 
+Snippets of things I learned today.
 
 This idea shamelessly copied from https://github.com/simonw/til
 
-## Python
+3 TILs so far.
 
-- [Querying SQLite from Python](python/querying-sqlite-from-python.md)
-- [Transpose a list of lists](python/transpose-list-of-lists.md)
+## python
 
-## SQLite
+* [Querying SQLite from Python](https://github.com/tsaylor/til/blob/main/python/querying-sqlite-from-python.md) - 2022-10-18
+* [Transpose a list of lists](https://github.com/tsaylor/til/blob/main/python/transpose-list-of-lists.md) - 2022-10-18
 
-- [Working with CSV data in SQLite](sqlite/working-with-csvs.md)
+## sqlite
+
+* [Working with CSV data in SQLite](https://github.com/tsaylor/til/blob/main/sqlite/working-with-csvs.md) - 2022-10-18
